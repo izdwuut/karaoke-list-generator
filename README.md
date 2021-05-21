@@ -6,3 +6,5 @@
 4. Otwórz wiersz poleceń (`cmd`) w folderze ze skryptem.
 5. Wykonaj polecenie `python karaoke.py`.
 6. Gotowa lista będzie zapisana w pliku `lista.doc`.
+
+Dla Twojej wygody, na ekran wiersza poleceń zostaną wypisane piosenki, których nie udało się automatycznie ogarnąć (bo np. wykonawcy i tytułu nie oddziela myślnik).
